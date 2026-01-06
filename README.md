@@ -1,4 +1,5 @@
 ShowFinder
+
 showfinder-js.netlify.app
 
 ShowFinder is a React application built with Vite that lets users browse and search TV shows, then view detailed information fetched from the IMDb API.
